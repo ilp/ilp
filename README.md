@@ -23,7 +23,7 @@ Hi, I'm Iverson Pereira, a Full Stack Software Engineer from Brazil.
 <code><img title="VueJs" height="20" src="https://vuejs.org/images/logo.png" alt="VueJs" ></code>
 <code><img  title="AngularJS & Angular 2+" height="20" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS & Angular 2+"></code>
 <code><img title="Java" height="20" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" ></code>
-<code><img title="pring Framework" height="20" src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" alt="Spring Framework"></code> 
+<code><img title="Spring Framework" height="20" src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" alt="Spring Framework"></code> 
 <code><img title="Postgres" height="20"  src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgres"/></code>
 
 
