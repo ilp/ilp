@@ -31,7 +31,7 @@ Hi, I'm Iverson Pereira, a Full Stack Software Engineer from Brazil.
 
 
 <a href="https://github.com/ilp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilp&theme=dracula&hide=css,c%23,tex" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilp&theme=dracula&hide=css,c%23" />
 </a>
 <a href="https://github.com/ilp/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilp&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="Iverson's github stats" />
