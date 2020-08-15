@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.instagram.com/idecodar/">
-  <img align="left" alt="IDE Codar | Instagram" width="20px" src="https://pluspng.com/img-png/instagram-png-instagram-png-logo-1455.png" />
+  <img align="left" alt="IDE Codar | Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" />
 </a>
 
 <br />
