@@ -35,9 +35,11 @@ Hi, I'm Iverson Pereira, a Full Stack Software Engineer from Brazil.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilp&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="Iverson's github stats" />
 </a>
 
+<br />
+<br />
 
-
-**Checkout my latest Medium articles 📑**
+**Checkout my latest Medium articles (pt-br) 📑**
+<br />
 *Sometimes I write Christian articles :latin_cross:*
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/0" alt="Recent Article 0">
