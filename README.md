@@ -26,9 +26,7 @@ Hi, I'm Iverson Pereira, a Full Stack Software Engineer from Brazil.
 <code><img title="Spring Framework" height="20" src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" alt="Spring Framework"></code> 
 <code><img title="Postgres" height="20"  src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgres"/></code>
 
-
 **NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
-
 
 <a href="https://github.com/ilp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilp&theme=dracula&hide=css,c%23" />
@@ -36,3 +34,15 @@ Hi, I'm Iverson Pereira, a Full Stack Software Engineer from Brazil.
 <a href="https://github.com/ilp/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilp&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="Iverson's github stats" />
 </a>
+
+
+
+**Checkout my latest Medium articles 📑**
+*Sometimes I write Christian articles :latin_cross:*
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/0" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/1" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/2" alt="Recent Article 0"> 
+
