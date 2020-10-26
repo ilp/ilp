@@ -13,7 +13,7 @@
 
 Hi, I'm Iverson Pereira, a Full Stack Software Engineer from Brazil.
 	
-- 🔭 I'm currently MSc Student in Computer Science
+- 🔭 I'm currently MSc Student in Computer Science and Bachelor of Theology
 - :seedling: I’m currently learning React & Elastic
 - ⚡ Connect with me: [LinkedIn](https://www.linkedin.com/in/iverson-luis/)
 - 💬 Ask me about anything [here](https://github.com/ilp/ilp/issues)
