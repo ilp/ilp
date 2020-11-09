@@ -1,4 +1,4 @@
-### Hi there, I'm Iverson! 👋
+### Hi there, I'm Iverson! <img width="40px" src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" />
 
 <a href="https://www.linkedin.com/in/iverson-luis/">
   <img align="left" alt="Iverson Pereirra | LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
