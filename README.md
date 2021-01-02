@@ -45,5 +45,3 @@ Hi, I'm Iverson Pereira, a Full Stack Software Engineer from Brazil.
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/0" alt="Recent Article 0">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/1" alt="Recent Article 1"> 
-
