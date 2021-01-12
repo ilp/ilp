@@ -8,6 +8,10 @@
   <img align="left" alt="IDE Codar | Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" />
 </a>
 
+<a href="https://www.youtube.com/channel/UCYiWBrcXkK6JANxsSuH3CaA">
+  <img align="left" alt="IDE Codar | YouTube" width="20px" src="https://www.pngfind.com/pngs/m/123-1235246_youtube-ndash-logos-brands-and-logotypes-youtube-logo.png" />
+</a>
+
 <br />
 <br />
 
