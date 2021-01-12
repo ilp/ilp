@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCYiWBrcXkK6JANxsSuH3CaA">
-  <img align="left" alt="IDE Codar | YouTube" width="20px" src="https://www.pngfind.com/pngs/m/123-1235246_youtube-ndash-logos-brands-and-logotypes-youtube-logo.png" />
+  <img align="left" alt="IDE Codar | YouTube" width="20px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" />
 </a>
 
 <br />
