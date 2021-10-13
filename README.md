@@ -48,5 +48,5 @@ Hi, I'm Iverson Pereira, a Full Stack Software Engineer from Brazil.
 <br />
 *Sometimes I write Christian articles :latin_cross:*
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/2" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/6" alt="Recent Article 6">
 
