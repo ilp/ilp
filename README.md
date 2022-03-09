@@ -1,7 +1,7 @@
 ### Hi there, I'm Iverson! <img width="40px" src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" />
 
 <a href="https://www.linkedin.com/in/iverson-luis/">
-  <img align="left" alt="Iverson Pereirra | LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="Iverson Pereirra | LinkedIn" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <a href="https://www.instagram.com/idecodar/">
@@ -44,9 +44,8 @@ Hi, I'm Iverson Pereira, a Full Stack Software Engineer from Brazil.
 <br />
 <br />
 
-**Checkout my latest Medium articles (pt-br) 📑**
-<br />
-*Sometimes I write Christian articles :latin_cross:*
+<p align="center">
+	<a href="https://app.daily.dev/ilp"><img src="https://api.daily.dev/devcards/4c9ad77bb4db4505b5a00357de380b6e.png?r=yns" width="400" alt="Iverson Pereira's Dev Card"/></a>
+</p>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iversonluis/6" alt="Recent Article 6">
 
