@@ -45,7 +45,7 @@ Hi, I'm Iverson Pereira, a Full Stack Software Engineer from Brazil.
 <br />
 
 <p align="center">
-	<a href="https://app.daily.dev/ilp"><img src="https://api.daily.dev/devcards/4c9ad77bb4db4505b5a00357de380b6e.png?r=yns" width="400" alt="Iverson Pereira's Dev Card"/></a>
+	<a href="https://app.daily.dev/ilp"><img src="https://api.daily.dev/devcards/4c9ad77bb4db4505b5a00357de380b6e.png?r=7sl" width="400" alt="Iverson Pereira's Dev Card"/></a>
 </p>
 
 
