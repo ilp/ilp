@@ -1,5 +1,5 @@
 # Hi there, I'm Iverson! <img width="40px" src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" />
-### Full Stack Software Engineer from Brazil. 
+### Full Stack Software Engineer from Brazil
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iversonluis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iverson-luis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCYiWBrcXkK6JANxsSuH3CaA) 
