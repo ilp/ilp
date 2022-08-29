@@ -1,51 +1,22 @@
-### Hi there, I'm Iverson! <img width="40px" src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" />
+# Hi there, I'm Iverson! <img width="40px" src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" />
+### Full Stack Software Engineer from Brazil. 
 
-<a href="https://www.linkedin.com/in/iverson-luis/">
-  <img align="left" alt="Iverson Pereirra | LinkedIn" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iversonluis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iverson-luis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCYiWBrcXkK6JANxsSuH3CaA) 
 
-<a href="https://www.instagram.com/idecodar/">
-  <img align="left" alt="IDE Codar | Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" />
-</a>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ilp&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilp&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=css,c%23,tex,shaderlab,glsl,coq,objective-c,objective-c%2B%2B)
 
-<a href="https://www.youtube.com/channel/UCYiWBrcXkK6JANxsSuH3CaA">
-  <img align="left" alt="IDE Codar | YouTube" width="20px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" />
-</a>
+## 📖 Daily.dev Card
+<a href="https://app.daily.dev/ilp"><img src="https://api.daily.dev/devcards/4c9ad77bb4db4505b5a00357de380b6e.png?r=0bb" width="250" alt="Iverson Pereira's Dev Card"/></a>
 
-<br />
-<br />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ilp&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-Hi, I'm Iverson Pereira, a Full Stack Software Engineer from Brazil.
-	
-- 🔭 I’m currently learning Clean Code & Clean Architecture
-- ⚡ Connect with me: [LinkedIn](https://www.linkedin.com/in/iverson-luis/)
-- 💬 Ask me about anything [here](https://github.com/ilp/ilp/issues)
-
-**Languages and Tools:**  
-
-<code><img title="JS" height="20" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JavaScript" ></code>
-<code><img title="VueJs" height="20" src="https://vuejs.org/images/logo.png" alt="VueJs" ></code>
-<code><img  title="AngularJS & Angular 2+" height="20" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS & Angular 2+"></code>
-<code><img title="Java" height="20" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" ></code>
-<code><img title="Spring Framework" height="20" src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" alt="Spring Framework"></code> 
-<code><img title="Postgres" height="20"  src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgres"/></code>
-
-**NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
-<p align="center">
-	<a href="https://github.com/ilp">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilp&theme=dracula&hide=css,c%23,tex,shaderlab,glsl&layout=compact" />
-	</a>
-	<br />
-	<a href="https://github.com/ilp/">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilp&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="Iverson's github stats" />
-	</a>
-</p>
-
-<br />
-<br />
-
-<p align="center">
-<a href="https://app.daily.dev/ilp"><img src="https://api.daily.dev/devcards/4c9ad77bb4db4505b5a00357de380b6e.png?r=xhw" width="400" alt="Iverson Pereira's Dev Card"/></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
