@@ -134,8 +134,7 @@ last updated: August 2026
 ---
 
 ## daily.dev
-
-<a href="https://app.daily.dev/ilp"><img src="devcard.svg" width="320" alt="Iverson Pereira's Dev Card" /></a>
+<a href="https://daily.dev/ilp"><img src="https://api.daily.dev/devcards/v2/8361dd9b14c64ac5aa83ea00774c6a9c.png?type=default&r=gga" width="356" alt="Iverson Pereira's Dev Card"/></a>
 
 ---
 
